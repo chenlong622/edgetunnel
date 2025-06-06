@@ -23,7 +23,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = ["https://https://raw.githubusercontent.com/chenlong622/yxip/refs/heads/main/ip.txt"];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
